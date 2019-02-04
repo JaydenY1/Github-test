@@ -12,6 +12,7 @@
 		6C9B7A142204D5DF00CB276F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C9B7A122204D5DF00CB276F /* Main.storyboard */; };
 		6C9B7A162204D5E100CB276F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C9B7A152204D5E100CB276F /* Assets.xcassets */; };
 		6C9B7A192204D5E100CB276F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C9B7A172204D5E100CB276F /* LaunchScreen.storyboard */; };
+		6CA588832208DD1300C0C56D /* previewfile_1543028701.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6CA588822208DD1300C0C56D /* previewfile_1543028701.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6C9B7A152204D5E100CB276F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C9B7A182204D5E100CB276F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C9B7A1A2204D5E100CB276F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6CA588822208DD1300C0C56D /* previewfile_1543028701.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = previewfile_1543028701.jpg; path = ../../../Downloads/previewfile_1543028701.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				6C9B7A152204D5E100CB276F /* Assets.xcassets */,
 				6C9B7A172204D5E100CB276F /* LaunchScreen.storyboard */,
 				6C9B7A1A2204D5E100CB276F /* Info.plist */,
+				6CA588822208DD1300C0C56D /* previewfile_1543028701.jpg */,
 			);
 			path = "Github test";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C9B7A192204D5E100CB276F /* LaunchScreen.storyboard in Resources */,
+				6CA588832208DD1300C0C56D /* previewfile_1543028701.jpg in Resources */,
 				6C9B7A162204D5E100CB276F /* Assets.xcassets in Resources */,
 				6C9B7A142204D5DF00CB276F /* Main.storyboard in Resources */,
 			);
