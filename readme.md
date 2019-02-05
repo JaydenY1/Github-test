@@ -1,7 +1,6 @@
-demo readme
+# Project info
+Name: Jayden Yuzicapi
 
-added a line 
+User ID: jaydeny1
 
-yeet
-
-yoot
+Date Completed: Feb 5 2019
