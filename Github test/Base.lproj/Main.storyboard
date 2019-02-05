@@ -13,7 +13,6 @@
         <!--View Controller-->
         <scene sceneID="RMk-Mu-3Xa">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="blO-Lo-Cia" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController id="Fzc-2j-E2R" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Z5Z-Rj-B9S">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
@@ -27,7 +26,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="previewfile_1543028701.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="hqM-jq-GGx">
-                                <rect key="frame" x="75" y="334" width="240" height="128"/>
+                                <rect key="frame" x="16" y="262" width="332" height="294"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -35,8 +34,9 @@
                         <viewLayoutGuide key="safeArea" id="Kxk-ce-QnV"/>
                     </view>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="blO-Lo-Cia" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="290" y="248"/>
+            <point key="canvasLocation" x="288.80000000000001" y="247.82608695652175"/>
         </scene>
     </scenes>
     <resources>
